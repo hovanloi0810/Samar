@@ -397,7 +397,7 @@ html {
   );
   background-size: 200%;
   opacity: 0;
-  transition: all 1s;
+  transition: 0.5s;
   border-radius: 10px;
 }
 
@@ -436,13 +436,11 @@ html {
   font-size: 2.4rem;
   font-weight: 800;
   color: #262626;
-  transition: all 1s;
 }
 
 .features__content-text {
   font-size: 1.6rem;
   color: #636363;
-  transition: all 1s;
 }
 
 .features__content-right {
